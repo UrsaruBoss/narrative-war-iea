@@ -1,0 +1,30 @@
+type,narrative,rows,actor_total,share_pct,total_rows,avg_share,dominance_score
+official,Air defense interceptions,745,3793,19.641,752,10.117,1.94
+media,Air defense interceptions,7,1182,0.592,752,10.117,0.06
+official,Air raid sirens and alerts,398,3793,10.493,472,6.114,1.72
+media,Air raid sirens and alerts,66,1182,5.584,472,6.114,0.91
+influencer,Air raid sirens and alerts,8,353,2.266,472,6.114,0.37
+official,And / Ukraine / Defense,91,3793,2.399,91,2.399,1.0
+influencer,Aviation restrictions and airport status,62,353,17.564,158,12.843,1.37
+media,Aviation restrictions and airport status,96,1182,8.122,158,12.843,0.63
+official,Determined To / False Identification / Be False,121,3793,3.19,121,3.19,1.0
+official,Gaza health reporting and casualties,1493,3793,39.362,1786,25.556,1.54
+media,Gaza health reporting and casualties,230,1182,19.459,1786,25.556,0.76
+influencer,Gaza health reporting and casualties,63,353,17.847,1786,25.556,0.7
+media,Humanitarian conditions and aid,107,1182,9.052,107,9.052,1.0
+media,Lurie / Valley / Rt,43,1182,3.638,53,3.235,1.12
+influencer,Lurie / Valley / Rt,10,353,2.833,53,3.235,0.88
+official,Military operational updates,551,3793,14.527,604,6.536,2.22
+media,Military operational updates,50,1182,4.23,604,6.536,0.65
+influencer,Military operational updates,3,353,0.85,604,6.536,0.13
+influencer,Not,68,353,19.263,262,17.838,1.08
+media,Not,194,1182,16.413,262,17.838,0.92
+media,Rapid / Kordofan / Support,50,1182,4.23,50,4.23,1.0
+influencer,Sobyanin / Moscow / To Moscow,78,353,22.096,156,14.348,1.54
+media,Sobyanin / Moscow / To Moscow,78,1182,6.599,156,14.348,0.46
+official,The / In / Hezbollah,49,3793,1.292,50,0.788,1.64
+influencer,The / In / Hezbollah,1,353,0.283,50,0.788,0.36
+official,The / The Hezbollah / Hezbollah Terrorist,56,3793,1.476,56,1.476,1.0
+media,UAV/drone incidents and interceptions,86,1182,7.276,332,4.93,1.48
+official,UAV/drone incidents and interceptions,242,3793,6.38,332,4.93,1.29
+influencer,UAV/drone incidents and interceptions,4,353,1.133,332,4.93,0.23

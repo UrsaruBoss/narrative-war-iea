@@ -1,0 +1,13 @@
+conflict,side,type,label,rows,noise_rows,clustered_rows,noise_pct,clustered_pct
+il_ps,il,influencer,il_influencer_hnaftali,3993,3898,95,97.62,2.38
+ua_ru,ua,media,ua_media_ukrainenow,4464,4296,168,96.24,3.76
+ua_ru,ua,influencer,ua_influencer_podolyak,350,334,16,95.43,4.57
+il_ps,ps,influencer,ps_activist_eyeonpalestine,2120,1998,122,94.25,5.75
+il_ps,il,media,il_media_iltvnews,3130,2854,276,91.18,8.82
+ua_ru,ua,official,ua_official_mod,2722,2456,266,90.23,9.77
+ua_ru,ru,influencer,ru_influencer_soloviev,4275,3760,515,87.95,12.05
+ua_ru,ru,media,ru_media_rt,4958,4253,705,85.78,14.22
+il_ps,ps,media,ps_media_aljazeera_ar,4995,3998,997,80.04,19.96
+ua_ru,ru,official,ru_official_mod,4043,2748,1295,67.97,32.03
+il_ps,il,official,il_official_idf,3848,2179,1669,56.63,43.37
+il_ps,ps,official,ps_official_mohgaza,3346,1761,1585,52.63,47.37

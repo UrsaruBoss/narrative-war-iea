@@ -1,0 +1,13 @@
+type,side,conflict,rows,noise_rows,noise_pct
+influencer,il,il_ps,3993,3898,97.62
+media,ua,ua_ru,4464,4296,96.24
+influencer,ua,ua_ru,350,334,95.43
+influencer,ps,il_ps,2120,1998,94.25
+media,il,il_ps,3130,2854,91.18
+official,ua,ua_ru,2722,2456,90.23
+influencer,ru,ua_ru,4275,3760,87.95
+media,ru,ua_ru,4958,4253,85.78
+media,ps,il_ps,4995,3998,80.04
+official,ru,ua_ru,4043,2748,67.97
+official,il,il_ps,3848,2179,56.63
+official,ps,il_ps,3346,1761,52.63

@@ -1,0 +1,29 @@
+{
+  "timestamp_utc": "2026-01-29T16:44:10.864509+00:00",
+  "run_dir": "data/features/clustering/hdbscan_mcs10_ms3_eom_eucl_norm",
+  "run_name": "hdbscan_mcs10_ms3_eom_eucl_norm",
+  "reports_dir": "reports/hdbscan_mcs10_ms3_eom_eucl_norm",
+  "analysis_dir": "reports/hdbscan_mcs10_ms3_eom_eucl_norm/analysis",
+  "inputs": {
+    "clustered_meta": "data/features/clustering/hdbscan_mcs10_ms3_eom_eucl_norm/clustered_meta.csv",
+    "cluster_label_draft": "reports/hdbscan_mcs10_ms3_eom_eucl_norm/cluster_label_draft.csv"
+  },
+  "params": {
+    "min_rows": 50,
+    "top_narratives": 120,
+    "mirror_min_sim": 0.35,
+    "timeline_freq": "W",
+    "top_spikes": 60
+  },
+  "outputs": {
+    "asymmetry_side": "reports/hdbscan_mcs10_ms3_eom_eucl_norm/analysis/asymmetry/by_side.csv",
+    "asymmetry_type": "reports/hdbscan_mcs10_ms3_eom_eucl_norm/analysis/asymmetry/by_type.csv",
+    "mirrors_side": "reports/hdbscan_mcs10_ms3_eom_eucl_norm/analysis/mirrors/by_side.csv",
+    "mirrors_type": "reports/hdbscan_mcs10_ms3_eom_eucl_norm/analysis/mirrors/by_type.csv",
+    "timeline_side": "reports/hdbscan_mcs10_ms3_eom_eucl_norm/analysis/timeline/timeline_by_side_W.csv",
+    "spikes_side": "reports/hdbscan_mcs10_ms3_eom_eucl_norm/analysis/timeline/spikes_by_side_W.csv",
+    "timeline_type": "reports/hdbscan_mcs10_ms3_eom_eucl_norm/analysis/timeline/timeline_by_type_W.csv",
+    "spikes_type": "reports/hdbscan_mcs10_ms3_eom_eucl_norm/analysis/timeline/spikes_by_type_W.csv"
+  },
+  "notes": "Mirror uses TF-IDF similarity over narrative label strings."
+}

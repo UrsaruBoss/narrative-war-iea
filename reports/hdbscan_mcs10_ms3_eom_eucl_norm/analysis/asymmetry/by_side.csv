@@ -1,0 +1,24 @@
+side,narrative,rows,actor_total,share_pct,total_rows,avg_share,dominance_score
+ru,Air defense interceptions,582,1936,30.062,752,21.222,1.42
+il,Air defense interceptions,170,1373,12.382,752,21.222,0.58
+il,Air raid sirens and alerts,472,1373,34.377,472,34.377,1.0
+ua,And / Ukraine / Defense,91,136,66.912,91,66.912,1.0
+ru,Aviation restrictions and airport status,158,1936,8.161,158,8.161,1.0
+il,Determined To / False Identification / Be False,121,1373,8.813,121,8.813,1.0
+ps,Gaza health reporting and casualties,1526,1883,81.041,1786,49.989,1.62
+il,Gaza health reporting and casualties,260,1373,18.937,1786,49.989,0.38
+ps,Humanitarian conditions and aid,106,1883,5.629,107,2.851,1.97
+il,Humanitarian conditions and aid,1,1373,0.073,107,2.851,0.03
+ru,Lurie / Valley / Rt,53,1936,2.738,53,2.738,1.0
+ru,Military operational updates,439,1936,22.676,604,17.347,1.31
+il,Military operational updates,165,1373,12.017,604,17.347,0.69
+ru,Not,134,1936,6.921,262,4.633,1.49
+ps,Not,119,1883,6.32,262,4.633,1.36
+ua,Not,7,136,5.147,262,4.633,1.11
+il,Not,2,1373,0.146,262,4.633,0.03
+ps,Rapid / Kordofan / Support,50,1883,2.655,50,2.655,1.0
+ru,Sobyanin / Moscow / To Moscow,156,1936,8.058,156,8.058,1.0
+il,The / In / Hezbollah,50,1373,3.642,50,3.642,1.0
+il,The / The Hezbollah / Hezbollah Terrorist,56,1373,4.079,56,4.079,1.0
+ru,UAV/drone incidents and interceptions,295,1936,15.238,332,8.966,1.7
+il,UAV/drone incidents and interceptions,37,1373,2.695,332,8.966,0.3

@@ -1,0 +1,56 @@
+ua_ru:
+  ua:
+    official:
+      label: "ua_official_mod"
+      channel: "@ministry_of_defense_ua"
+
+    media:
+      label: "ua_media_ukrainenow"
+      channel: "@UkraineNow"
+
+    influencer:
+      label: "ua_influencer_podolyak"
+      channel: "@M_Podolyak"
+
+
+  ru:
+    official:
+      label: "ru_official_mod"
+      channel: "@mod_russia"
+
+    media:
+      label: "ru_media_rt"
+      channel: "@rt_russ"
+
+    influencer:
+      label: "ru_influencer_soloviev"
+      channel: "@SolovievLive"
+
+
+il_ps:
+  il:
+    official:
+      label: "il_official_idf"
+      channel: "@idfofficial"
+
+    media:
+      label: "il_media_iltvnews"
+      channel: "@ILTVnews"
+
+    influencer:
+      label: "il_influencer_hnaftali"
+      channel: "@hnaftali"
+
+
+  ps:
+    official:
+      label: "ps_official_mohgaza"
+      channel: "@MOHMediaGaza"
+
+    media:
+      label: "ps_media_aljazeera_ar"
+      channel: "@AJArabicNews"
+
+    influencer:
+      label: "ps_activist_eyeonpalestine"
+      channel: "@Eyeonpalestine2"

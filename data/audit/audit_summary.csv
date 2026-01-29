@@ -1,0 +1,13 @@
+file,conflict,side,type,label,rows,date_min,date_max,days_covered,rows_per_day,empty_text_pct
+data/raw/il_ps/il/il_influencer_hnaftali__influencer.csv,il_ps,il,influencer,il_influencer_hnaftali,4175,2025-02-11T23:05:51+00:00,2026-01-06T14:02:07+00:00,328,12.73,0.0
+data/raw/il_ps/il/il_media_iltvnews__media.csv,il_ps,il,media,il_media_iltvnews,3349,2024-02-04T09:26:55+00:00,2026-01-06T20:12:01+00:00,702,4.77,0.06
+data/raw/il_ps/il/il_official_idf__official.csv,il_ps,il,official,il_official_idf,5000,2024-10-13T16:26:58+00:00,2026-01-06T19:03:19+00:00,450,11.11,0.0
+data/raw/il_ps/ps/ps_activist_eyeonpalestine__influencer.csv,il_ps,ps,influencer,ps_activist_eyeonpalestine,2159,2025-10-07T23:18:26+00:00,2026-01-06T20:14:26+00:00,90,23.99,0.74
+data/raw/il_ps/ps/ps_media_aljazeera_ar__media.csv,il_ps,ps,media,ps_media_aljazeera_ar,5000,2025-10-13T14:50:39+00:00,2026-01-06T20:31:28+00:00,85,58.82,0.0
+data/raw/il_ps/ps/ps_official_mohgaza__official.csv,il_ps,ps,official,ps_official_mohgaza,3829,2020-09-10T07:50:33+00:00,2026-01-06T11:35:54+00:00,1944,1.97,8.91
+data/raw/ua_ru/ru/ru_influencer_soloviev__influencer.csv,ua_ru,ru,influencer,ru_influencer_soloviev,4330,2025-11-27T23:51:41+00:00,2026-01-06T19:59:01+00:00,39,111.03,0.0
+data/raw/ua_ru/ru/ru_media_rt__media.csv,ua_ru,ru,media,ru_media_rt,5000,2025-10-27T10:37:12+00:00,2026-01-06T19:52:56+00:00,71,70.42,0.0
+data/raw/ua_ru/ru/ru_official_mod__official.csv,ua_ru,ru,official,ru_official_mod,4202,2025-07-24T17:50:02+00:00,2026-01-06T19:05:21+00:00,166,25.31,0.0
+data/raw/ua_ru/ua/ua_influencer_podolyak__influencer.csv,ua_ru,ua,influencer,ua_influencer_podolyak,350,2022-03-16T06:41:39+00:00,2025-12-25T13:14:53+00:00,1380,0.25,0.0
+data/raw/ua_ru/ua/ua_media_ukrainenow__media.csv,ua_ru,ua,media,ua_media_ukrainenow,4478,2025-07-15T12:52:16+00:00,2026-01-06T19:46:47+00:00,175,25.59,0.0
+data/raw/ua_ru/ua/ua_official_mod__official.csv,ua_ru,ua,official,ua_official_mod,2722,2024-06-18T14:20:31+00:00,2026-01-06T17:34:00+00:00,567,4.8,0.0

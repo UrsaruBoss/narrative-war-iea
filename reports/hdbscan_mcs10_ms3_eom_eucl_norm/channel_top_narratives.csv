@@ -1,0 +1,160 @@
+label,narrative,rows
+il_influencer_hnaftali,cluster_24,15
+il_influencer_hnaftali,cluster_43,15
+il_influencer_hnaftali,cluster_13,10
+il_influencer_hnaftali,Air raid sirens and alerts,8
+il_influencer_hnaftali,cluster_113,8
+il_influencer_hnaftali,Gaza health reporting and casualties,6
+il_influencer_hnaftali,cluster_61,5
+il_influencer_hnaftali,cluster_9,4
+il_influencer_hnaftali,Military operational updates,3
+il_influencer_hnaftali,cluster_18,3
+il_influencer_hnaftali,cluster_11,2
+il_influencer_hnaftali,cluster_178,2
+il_influencer_hnaftali,cluster_8,2
+il_influencer_hnaftali,cluster_96,2
+il_influencer_hnaftali,The / In / Hezbollah,1
+il_media_iltvnews,Air raid sirens and alerts,66
+il_media_iltvnews,Gaza health reporting and casualties,43
+il_media_iltvnews,Military operational updates,20
+il_media_iltvnews,cluster_106,18
+il_media_iltvnews,cluster_109,16
+il_media_iltvnews,cluster_3,13
+il_media_iltvnews,cluster_11,9
+il_media_iltvnews,cluster_61,9
+il_media_iltvnews,cluster_8,9
+il_media_iltvnews,cluster_48,8
+il_media_iltvnews,Air defense interceptions,7
+il_media_iltvnews,cluster_156,7
+il_media_iltvnews,cluster_43,7
+il_media_iltvnews,cluster_6,7
+il_media_iltvnews,cluster_9,6
+il_official_idf,Air raid sirens and alerts,398
+il_official_idf,Gaza health reporting and casualties,211
+il_official_idf,Air defense interceptions,163
+il_official_idf,Military operational updates,142
+il_official_idf,Determined To / False Identification / Be False,121
+il_official_idf,The / The Hezbollah / Hezbollah Terrorist,56
+il_official_idf,The / In / Hezbollah,49
+il_official_idf,The / And / Forces,39
+il_official_idf,UAV/drone incidents and interceptions,37
+il_official_idf,cluster_179,26
+il_official_idf,cluster_41,25
+il_official_idf,cluster_97,23
+il_official_idf,cluster_162,22
+il_official_idf,cluster_76,21
+il_official_idf,cluster_130,20
+ps_activist_eyeonpalestine,Gaza health reporting and casualties,57
+ps_activist_eyeonpalestine,cluster_77,24
+ps_activist_eyeonpalestine,cluster_37,13
+ps_activist_eyeonpalestine,cluster_101,11
+ps_activist_eyeonpalestine,cluster_54,9
+ps_activist_eyeonpalestine,Not,2
+ps_activist_eyeonpalestine,cluster_4,2
+ps_activist_eyeonpalestine,cluster_21,1
+ps_activist_eyeonpalestine,cluster_72,1
+ps_activist_eyeonpalestine,cluster_88,1
+ps_activist_eyeonpalestine,cluster_9,1
+ps_media_aljazeera_ar,Gaza health reporting and casualties,187
+ps_media_aljazeera_ar,Not,117
+ps_media_aljazeera_ar,Humanitarian conditions and aid,106
+ps_media_aljazeera_ar,Rapid / Kordofan / Support,50
+ps_media_aljazeera_ar,Iraq / Elections / In,47
+ps_media_aljazeera_ar,Syria / Aleppo / Al Jazeera,35
+ps_media_aljazeera_ar,cluster_141,25
+ps_media_aljazeera_ar,cluster_103,24
+ps_media_aljazeera_ar,cluster_62,24
+ps_media_aljazeera_ar,cluster_117,21
+ps_media_aljazeera_ar,cluster_25,20
+ps_media_aljazeera_ar,cluster_16,19
+ps_media_aljazeera_ar,cluster_93,19
+ps_media_aljazeera_ar,cluster_133,18
+ps_media_aljazeera_ar,cluster_145,17
+ps_official_mohgaza,Gaza health reporting and casualties,1282
+ps_official_mohgaza,cluster_205,29
+ps_official_mohgaza,cluster_1,27
+ps_official_mohgaza,cluster_195,22
+ps_official_mohgaza,cluster_34,22
+ps_official_mohgaza,cluster_186,18
+ps_official_mohgaza,cluster_202,16
+ps_official_mohgaza,cluster_102,15
+ps_official_mohgaza,cluster_138,15
+ps_official_mohgaza,cluster_119,14
+ps_official_mohgaza,cluster_131,14
+ps_official_mohgaza,cluster_132,14
+ps_official_mohgaza,cluster_203,14
+ps_official_mohgaza,cluster_207,14
+ps_official_mohgaza,cluster_170,13
+ru_influencer_soloviev,Sobyanin / Moscow / To Moscow,78
+ru_influencer_soloviev,Not,66
+ru_influencer_soloviev,Aviation restrictions and airport status,62
+ru_influencer_soloviev,Moscow / On / Winter Moscow,33
+ru_influencer_soloviev,cluster_143,29
+ru_influencer_soloviev,cluster_182,27
+ru_influencer_soloviev,Eu / Assets / That,22
+ru_influencer_soloviev,cluster_71,21
+ru_influencer_soloviev,cluster_151,17
+ru_influencer_soloviev,cluster_21,15
+ru_influencer_soloviev,cluster_38,14
+ru_influencer_soloviev,cluster_39,14
+ru_influencer_soloviev,cluster_10,13
+ru_influencer_soloviev,cluster_125,13
+ru_influencer_soloviev,cluster_63,13
+ru_media_rt,Aviation restrictions and airport status,96
+ru_media_rt,UAV/drone incidents and interceptions,86
+ru_media_rt,Sobyanin / Moscow / To Moscow,78
+ru_media_rt,Not,68
+ru_media_rt,Lurie / Valley / Rt,43
+ru_media_rt,Rt / On / On Rt,40
+ru_media_rt,Military operational updates,30
+ru_media_rt,cluster_137,26
+ru_media_rt,Eu / Assets / That,23
+ru_media_rt,cluster_80,17
+ru_media_rt,cluster_128,14
+ru_media_rt,cluster_47,14
+ru_media_rt,cluster_32,13
+ru_media_rt,cluster_129,12
+ru_media_rt,cluster_23,12
+ru_official_mod,Air defense interceptions,582
+ru_official_mod,Military operational updates,409
+ru_official_mod,UAV/drone incidents and interceptions,205
+ru_official_mod,cluster_191,19
+ru_official_mod,cluster_168,14
+ru_official_mod,cluster_196,13
+ru_official_mod,cluster_55,13
+ru_official_mod,cluster_136,12
+ru_official_mod,cluster_112,10
+ru_official_mod,cluster_60,10
+ru_official_mod,cluster_157,8
+ua_influencer_podolyak,cluster_87,15
+ua_influencer_podolyak,cluster_95,1
+ua_media_ukrainenow,Losses / Russian / Viber,26
+ua_media_ukrainenow,cluster_91,26
+ua_media_ukrainenow,cluster_42,22
+ua_media_ukrainenow,cluster_90,19
+ua_media_ukrainenow,cluster_121,15
+ua_media_ukrainenow,Not,7
+ua_media_ukrainenow,cluster_58,7
+ua_media_ukrainenow,cluster_46,6
+ua_media_ukrainenow,cluster_73,6
+ua_media_ukrainenow,cluster_29,5
+ua_media_ukrainenow,Eu / Assets / That,4
+ua_media_ukrainenow,cluster_19,4
+ua_media_ukrainenow,cluster_21,4
+ua_media_ukrainenow,cluster_36,3
+ua_media_ukrainenow,cluster_74,3
+ua_official_mod,And / Ukraine / Defense,91
+ua_official_mod,cluster_49,25
+ua_official_mod,cluster_95,22
+ua_official_mod,cluster_92,21
+ua_official_mod,cluster_40,15
+ua_official_mod,cluster_59,15
+ua_official_mod,cluster_35,11
+ua_official_mod,cluster_81,11
+ua_official_mod,cluster_148,10
+ua_official_mod,cluster_30,10
+ua_official_mod,cluster_52,10
+ua_official_mod,Losses / Russian / Viber,8
+ua_official_mod,cluster_74,8
+ua_official_mod,cluster_19,6
+ua_official_mod,cluster_73,3

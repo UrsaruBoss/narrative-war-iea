@@ -1,0 +1,160 @@
+conflict,side,type,narrative,rows,total_rows,share_pct
+il_ps,il,influencer,cluster_24,15,95,15.79
+il_ps,il,influencer,cluster_43,15,95,15.79
+il_ps,il,influencer,cluster_13,10,95,10.53
+il_ps,il,influencer,Air raid sirens and alerts,8,95,8.42
+il_ps,il,influencer,cluster_113,8,95,8.42
+il_ps,il,influencer,Gaza health reporting and casualties,6,95,6.32
+il_ps,il,influencer,cluster_61,5,95,5.26
+il_ps,il,influencer,cluster_9,4,95,4.21
+il_ps,il,influencer,cluster_18,3,95,3.16
+il_ps,il,influencer,Military operational updates,3,95,3.16
+il_ps,il,influencer,cluster_178,2,95,2.11
+il_ps,il,influencer,cluster_8,2,95,2.11
+il_ps,il,influencer,cluster_96,2,95,2.11
+il_ps,il,influencer,cluster_11,2,95,2.11
+il_ps,il,influencer,cluster_26,1,95,1.05
+il_ps,il,media,Air raid sirens and alerts,66,276,23.91
+il_ps,il,media,Gaza health reporting and casualties,43,276,15.58
+il_ps,il,media,Military operational updates,20,276,7.25
+il_ps,il,media,cluster_106,18,276,6.52
+il_ps,il,media,cluster_109,16,276,5.8
+il_ps,il,media,cluster_3,13,276,4.71
+il_ps,il,media,cluster_8,9,276,3.26
+il_ps,il,media,cluster_61,9,276,3.26
+il_ps,il,media,cluster_11,9,276,3.26
+il_ps,il,media,cluster_48,8,276,2.9
+il_ps,il,media,cluster_43,7,276,2.54
+il_ps,il,media,cluster_6,7,276,2.54
+il_ps,il,media,Air defense interceptions,7,276,2.54
+il_ps,il,media,cluster_156,7,276,2.54
+il_ps,il,media,cluster_9,6,276,2.17
+il_ps,il,official,Air raid sirens and alerts,398,1669,23.85
+il_ps,il,official,Gaza health reporting and casualties,211,1669,12.64
+il_ps,il,official,Air defense interceptions,163,1669,9.77
+il_ps,il,official,Military operational updates,142,1669,8.51
+il_ps,il,official,Determined To / False Identification / Be False,121,1669,7.25
+il_ps,il,official,The / The Hezbollah / Hezbollah Terrorist,56,1669,3.36
+il_ps,il,official,The / In / Hezbollah,49,1669,2.94
+il_ps,il,official,The / And / Forces,39,1669,2.34
+il_ps,il,official,UAV/drone incidents and interceptions,37,1669,2.22
+il_ps,il,official,cluster_179,26,1669,1.56
+il_ps,il,official,cluster_41,25,1669,1.5
+il_ps,il,official,cluster_97,23,1669,1.38
+il_ps,il,official,cluster_162,22,1669,1.32
+il_ps,il,official,cluster_76,21,1669,1.26
+il_ps,il,official,cluster_130,20,1669,1.2
+il_ps,ps,influencer,Gaza health reporting and casualties,57,122,46.72
+il_ps,ps,influencer,cluster_77,24,122,19.67
+il_ps,ps,influencer,cluster_37,13,122,10.66
+il_ps,ps,influencer,cluster_101,11,122,9.02
+il_ps,ps,influencer,cluster_54,9,122,7.38
+il_ps,ps,influencer,cluster_4,2,122,1.64
+il_ps,ps,influencer,Not,2,122,1.64
+il_ps,ps,influencer,cluster_9,1,122,0.82
+il_ps,ps,influencer,cluster_88,1,122,0.82
+il_ps,ps,influencer,cluster_72,1,122,0.82
+il_ps,ps,influencer,cluster_21,1,122,0.82
+il_ps,ps,media,Gaza health reporting and casualties,187,997,18.76
+il_ps,ps,media,Not,117,997,11.74
+il_ps,ps,media,Humanitarian conditions and aid,106,997,10.63
+il_ps,ps,media,Rapid / Kordofan / Support,50,997,5.02
+il_ps,ps,media,Iraq / Elections / In,47,997,4.71
+il_ps,ps,media,Syria / Aleppo / Al Jazeera,35,997,3.51
+il_ps,ps,media,cluster_141,25,997,2.51
+il_ps,ps,media,cluster_62,24,997,2.41
+il_ps,ps,media,cluster_103,24,997,2.41
+il_ps,ps,media,cluster_117,21,997,2.11
+il_ps,ps,media,cluster_25,20,997,2.01
+il_ps,ps,media,cluster_16,19,997,1.91
+il_ps,ps,media,cluster_93,19,997,1.91
+il_ps,ps,media,cluster_133,18,997,1.81
+il_ps,ps,media,cluster_145,17,997,1.71
+il_ps,ps,official,Gaza health reporting and casualties,1282,1585,80.88
+il_ps,ps,official,cluster_205,29,1585,1.83
+il_ps,ps,official,cluster_1,27,1585,1.7
+il_ps,ps,official,cluster_195,22,1585,1.39
+il_ps,ps,official,cluster_34,22,1585,1.39
+il_ps,ps,official,cluster_186,18,1585,1.14
+il_ps,ps,official,cluster_202,16,1585,1.01
+il_ps,ps,official,cluster_102,15,1585,0.95
+il_ps,ps,official,cluster_138,15,1585,0.95
+il_ps,ps,official,cluster_203,14,1585,0.88
+il_ps,ps,official,cluster_207,14,1585,0.88
+il_ps,ps,official,cluster_132,14,1585,0.88
+il_ps,ps,official,cluster_131,14,1585,0.88
+il_ps,ps,official,cluster_119,14,1585,0.88
+il_ps,ps,official,cluster_201,13,1585,0.82
+ua_ru,ru,influencer,Sobyanin / Moscow / To Moscow,78,515,15.15
+ua_ru,ru,influencer,Not,66,515,12.82
+ua_ru,ru,influencer,Aviation restrictions and airport status,62,515,12.04
+ua_ru,ru,influencer,Moscow / On / Winter Moscow,33,515,6.41
+ua_ru,ru,influencer,cluster_143,29,515,5.63
+ua_ru,ru,influencer,cluster_182,27,515,5.24
+ua_ru,ru,influencer,Eu / Assets / That,22,515,4.27
+ua_ru,ru,influencer,cluster_71,21,515,4.08
+ua_ru,ru,influencer,cluster_151,17,515,3.3
+ua_ru,ru,influencer,cluster_21,15,515,2.91
+ua_ru,ru,influencer,cluster_38,14,515,2.72
+ua_ru,ru,influencer,cluster_39,14,515,2.72
+ua_ru,ru,influencer,cluster_125,13,515,2.52
+ua_ru,ru,influencer,cluster_63,13,515,2.52
+ua_ru,ru,influencer,cluster_10,13,515,2.52
+ua_ru,ru,media,Aviation restrictions and airport status,96,705,13.62
+ua_ru,ru,media,UAV/drone incidents and interceptions,86,705,12.2
+ua_ru,ru,media,Sobyanin / Moscow / To Moscow,78,705,11.06
+ua_ru,ru,media,Not,68,705,9.65
+ua_ru,ru,media,Lurie / Valley / Rt,43,705,6.1
+ua_ru,ru,media,Rt / On / On Rt,40,705,5.67
+ua_ru,ru,media,Military operational updates,30,705,4.26
+ua_ru,ru,media,cluster_137,26,705,3.69
+ua_ru,ru,media,Eu / Assets / That,23,705,3.26
+ua_ru,ru,media,cluster_80,17,705,2.41
+ua_ru,ru,media,cluster_128,14,705,1.99
+ua_ru,ru,media,cluster_47,14,705,1.99
+ua_ru,ru,media,cluster_32,13,705,1.84
+ua_ru,ru,media,cluster_23,12,705,1.7
+ua_ru,ru,media,cluster_129,12,705,1.7
+ua_ru,ru,official,Air defense interceptions,582,1295,44.94
+ua_ru,ru,official,Military operational updates,409,1295,31.58
+ua_ru,ru,official,UAV/drone incidents and interceptions,205,1295,15.83
+ua_ru,ru,official,cluster_191,19,1295,1.47
+ua_ru,ru,official,cluster_168,14,1295,1.08
+ua_ru,ru,official,cluster_55,13,1295,1.0
+ua_ru,ru,official,cluster_196,13,1295,1.0
+ua_ru,ru,official,cluster_136,12,1295,0.93
+ua_ru,ru,official,cluster_112,10,1295,0.77
+ua_ru,ru,official,cluster_60,10,1295,0.77
+ua_ru,ru,official,cluster_157,8,1295,0.62
+ua_ru,ua,influencer,cluster_87,15,16,93.75
+ua_ru,ua,influencer,cluster_95,1,16,6.25
+ua_ru,ua,media,cluster_91,26,168,15.48
+ua_ru,ua,media,Losses / Russian / Viber,26,168,15.48
+ua_ru,ua,media,cluster_42,22,168,13.1
+ua_ru,ua,media,cluster_90,19,168,11.31
+ua_ru,ua,media,cluster_121,15,168,8.93
+ua_ru,ua,media,Not,7,168,4.17
+ua_ru,ua,media,cluster_58,7,168,4.17
+ua_ru,ua,media,cluster_73,6,168,3.57
+ua_ru,ua,media,cluster_46,6,168,3.57
+ua_ru,ua,media,cluster_29,5,168,2.98
+ua_ru,ua,media,cluster_19,4,168,2.38
+ua_ru,ua,media,cluster_21,4,168,2.38
+ua_ru,ua,media,Eu / Assets / That,4,168,2.38
+ua_ru,ua,media,cluster_36,3,168,1.79
+ua_ru,ua,media,cluster_74,3,168,1.79
+ua_ru,ua,official,And / Ukraine / Defense,91,266,34.21
+ua_ru,ua,official,cluster_49,25,266,9.4
+ua_ru,ua,official,cluster_95,22,266,8.27
+ua_ru,ua,official,cluster_92,21,266,7.89
+ua_ru,ua,official,cluster_59,15,266,5.64
+ua_ru,ua,official,cluster_40,15,266,5.64
+ua_ru,ua,official,cluster_35,11,266,4.14
+ua_ru,ua,official,cluster_81,11,266,4.14
+ua_ru,ua,official,cluster_52,10,266,3.76
+ua_ru,ua,official,cluster_30,10,266,3.76
+ua_ru,ua,official,cluster_148,10,266,3.76
+ua_ru,ua,official,cluster_74,8,266,3.01
+ua_ru,ua,official,Losses / Russian / Viber,8,266,3.01
+ua_ru,ua,official,cluster_19,6,266,2.26
+ua_ru,ua,official,cluster_73,3,266,1.13

@@ -1,0 +1,32 @@
+# 1. Securitate (CRITIC: Nu urca cheile API!)
+.env
+.env.*
+
+# 2. Python & Virtual Envs
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+*.egg-info/
+
+# 3. Date Voluminoase (Nu le urca pe GitHub)
+data/raw/*
+data/features/*
+cache/
+
+# Notă: Păstrăm structura folderelor, dar ignorăm conținutul
+!data/raw/.gitkeep
+!data/features/.gitkeep
+
+# 4. Docker & System
+.DS_Store
+Thumbs.db
+docker-compose.override.yml
+
+# 5. IDE
+.vscode/
+.idea/
+
+# 6. Logs
+*.log

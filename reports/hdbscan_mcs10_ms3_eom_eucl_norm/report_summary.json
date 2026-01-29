@@ -1,0 +1,14 @@
+{
+  "run_dir": "data/features/clustering/hdbscan_mcs10_ms3_eom_eucl_norm",
+  "run_name": "hdbscan_mcs10_ms3_eom_eucl_norm",
+  "total_rows": 42244,
+  "clustered_rows": 7709,
+  "noise_rows": 34535,
+  "noise_pct": 81.75,
+  "generated_at_utc": "2026-01-29T16:42:37.828578+00:00",
+  "outputs": {
+    "cluster_coverage_csv": "reports/hdbscan_mcs10_ms3_eom_eucl_norm/cluster_coverage.csv",
+    "noise_breakdown_csv": "reports/hdbscan_mcs10_ms3_eom_eucl_norm/noise_breakdown.csv",
+    "top_clusters_by_actor_csv": "reports/hdbscan_mcs10_ms3_eom_eucl_norm/top_clusters_by_actor.csv"
+  }
+}

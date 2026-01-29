@@ -1,0 +1,15 @@
+services:
+  narrative-war-lab:
+    build: .
+    container_name: narrative-war-lab
+    working_dir: /app
+    volumes:
+      - ./:/app
+      - ./data:/app/data
+      - ./reports:/app/reports
+      - ./cache:/cache
+    environment:
+      - HF_HOME=/cache/hf
+      - TRANSFORMERS_CACHE=/cache/hf
+      - SENTENCE_TRANSFORMERS_HOME=/cache/sentence-transformers
+    tty: true
