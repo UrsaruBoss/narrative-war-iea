@@ -29,4 +29,5 @@ docker-compose.override.yml
 .idea/
 
 # 6. Logs
-*.log
+*.log*.session
+*.session-journal
